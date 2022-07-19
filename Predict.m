@@ -1,8 +1,4 @@
 %% Classify Image Using ResNet-50
-% This example shows how to classify an image using the ResNet-50
-% pretrained convolutional neural network.
-
-%   Copyright 2019 The MathWorks, Inc.
 
 % Read an example image.
 img = imread("peppers.png");
