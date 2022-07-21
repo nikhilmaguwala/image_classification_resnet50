@@ -15,3 +15,5 @@ This NN have three functions:
 - resnetLayers: Creates an untrained network with the network architecture of ResNet-50
 - assembleResNet: Creates a ResNet-50 network with weights trained on ImageNet data
 - Predict: Demonstrates how to classify an image using a trained ResNet-50 network
+
+![image](https://user-images.githubusercontent.com/52782379/180206683-c1a03335-76ef-4908-99b6-c8176f70d8ac.png)
